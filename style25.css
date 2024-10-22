@@ -107,7 +107,7 @@ html{
 }
 .sobremi{
     background-color:#0f819b;
-    color: #0f819b;
+    color: #161616;
     padding: 50px 20px;
 }
 .sobremi .contenido-seccion{
@@ -206,6 +206,16 @@ html{
 }
 .sobremi button:hover .overlay{
     width: 100%;
+}
+.habilidades{
+    background-color: #0f819b;
+    color: #000000;
+    text-align: center;
+}
+.aspiraciones{
+    background-color: #0f819b;
+    color: #000000;
+    text-align: center;
 }
 /* SECCION S K I L L S */
 .skills{
@@ -419,7 +429,7 @@ html{
 .contacto .col .info{
     position: absolute;
     top: 40%;
-    background-color:#3a9ba8;
+    background-color:#12b7bd;
     color: #000000;
     padding: 40px;
     max-width: 350px;
@@ -438,7 +448,7 @@ html{
     margin-right: 20px;
 }
 footer{
-    background-color: #e4e9eb;
+    background-color: #3a9ba8;
     color: #ebebeb;
     padding: 50px 0 30px 0;
     text-align: center;
